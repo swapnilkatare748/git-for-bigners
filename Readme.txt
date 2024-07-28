@@ -1,6 +1,6 @@
 Welcome to my repository.
 
-Author: swapnil katare
+Author: swapnil kataree
 
 
 <<<<<<< HEAD
